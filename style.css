@@ -39,3 +39,7 @@ h1 {
     border-left: 10px double rgba(0, 0, 0, 0.5);
 }
 
+.cap, .sleeve {
+    display: inline-block;
+}
+
