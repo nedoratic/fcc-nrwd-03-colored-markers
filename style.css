@@ -24,4 +24,5 @@ h1 {
 .marker {
     width: 300px;
     height: 25px;
+    margin: 25px auto;
 }
