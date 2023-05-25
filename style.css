@@ -22,7 +22,8 @@ h1 {
 }
 
 .marker {
-    width: 300px;
+    width: 200px;
     height: 25px;
-    margin: 25px auto;
+    margin: 10px auto;
 }
+
