@@ -6,5 +6,8 @@
     box-sizing: border-box;
 }
 
-/* FOOTER */
+/* HEADER */
 
+h1 {
+    text-align: center;
+}
